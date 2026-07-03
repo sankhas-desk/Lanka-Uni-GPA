@@ -1,0 +1,6 @@
+{
+  "name": "Lanka Uni GPA",
+  "description": "GPA Calculator and Semester Tracker for Sri Lankan University Students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
