@@ -1,21 +1,53 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+
+# 🎓 Lanka Uni GPA Calculator
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]()
+
+*A sleek, fast, and accurate GPA & CGPA calculation tool tailored for undergraduates in Sri Lankan universities.*
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 🚀 Overview
 
-View your app in AI Studio: https://ai.studio/apps/ae39498d-06ee-44d0-b33a-b78b404b3bc0
+**Lanka-Uni-GPA** is a lightweight and intuitive web application built to help university students effortlessly calculate, track, and manage their Semester Grade Point Average (GPA) and Cumulative Grade Point Average (CGPA). Designed with a clean interface and robust credit-weight calculation logic, it takes the friction out of academic tracking.
 
-## Run Locally
+---
 
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
+## ✨ Key Features
 
+* **Semester & Cumulative Tracking:** Calculate individual semester GPAs alongside your overall CGPA.
+* **Standard Grading Scale Support:** Fully compatible with standard university grade point mappings (A+, A, A-, B+, etc.).
+* **Dynamic Course Management:** Easily add, edit, or remove courses, credit values, and grades on the fly.
+* **Responsive & Mobile-Friendly:** Optimized for seamless performance across desktops, tablets, and smartphones.
+* **Local State Persistence:** Keeps your data secure and accessible in your browser session.
 
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React, HTML5, CSS3 / Modern JavaScript
+* **Backend / Runtime:** Node.js
+* **Build Tools & Packaging:** Android Studio (for mobile/APK builds where applicable)
+
+---
+
+## 🏁 Getting Started
+
+Follow these instructions to get a local copy up and running on your machine for development and testing.
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed on your system.
+* [Node.js](https://nodejs.org/) (v14+ recommended)
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/sankhas-desk/Lanka-Uni-GPA.git](https://github.com/sankhas-desk/Lanka-Uni-GPA.git)
